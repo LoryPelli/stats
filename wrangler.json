@@ -5,7 +5,7 @@
     "compatibility_flags": ["nodejs_compat"],
     "main": "src/index.js",
     "route": {
-        "pattern": "server.lorypelli.dev",
+        "pattern": "stats.lorypelli.dev",
         "custom_domain": true
     }
 }
